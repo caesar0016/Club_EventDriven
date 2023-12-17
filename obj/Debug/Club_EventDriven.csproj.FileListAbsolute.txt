@@ -1,0 +1,14 @@
+C:\Users\dapit\source\repos\Club_EventDriven\bin\Debug\Club_EventDriven.exe.config
+C:\Users\dapit\source\repos\Club_EventDriven\bin\Debug\Club_EventDriven.exe
+C:\Users\dapit\source\repos\Club_EventDriven\bin\Debug\Club_EventDriven.pdb
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.csproj.AssemblyReference.cache
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.csproj.SuggestedBindingRedirects.cache
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.FrmClubRegistration.resources
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.Properties.Resources.resources
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.csproj.GenerateResource.cache
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.csproj.CoreCompileInputs.cache
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.exe
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.pdb
+C:\Users\dapit\source\repos\Club_EventDriven\bin\Debug\ClubDB.mdf
+C:\Users\dapit\source\repos\Club_EventDriven\bin\Debug\ClubDB_log.ldf
+C:\Users\dapit\source\repos\Club_EventDriven\obj\Debug\Club_EventDriven.FrmUpdateMember.resources
